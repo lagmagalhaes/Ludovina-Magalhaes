@@ -10,9 +10,6 @@
  
 [![](https://img.shields.io/badge/Página_Web-yelow?style=for-the-badge&logo=medium&logoColor=white)]()
   
- 
- <div id="badges" align="center">
-  <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=noelianav91.noelianav91&color=00cf00" alt=""/>
    
    <h1>
   Olá, sou a Ludovina.  
