@@ -4,8 +4,8 @@
   Olá, sou a Ludovina.  
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1> 
----
-## BEM VINDO AO MEU GITHUB
+
+### BEM VINDO AO MEU GITHUB
   
   * 🌱 Estou a estudar :blue_book: e a praticar :computer: lenguagem SQL e Python, sem deixar de lado as ferramentas da Microsoft. 
    
