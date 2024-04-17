@@ -20,12 +20,12 @@
  <div id="header" align="left">
 
 ## BEM VINDO AO MEU GITHUB
-
+  
   * 🌱 Estou a estudar :blue_book: e a praticar :computer: lenguagem SQL e Python, sem deixar de lado as ferramentas da Microsoft. 
 
 ---
    
- ### :hammer_and_wrench: Linguagens e Ferramentas :
+ ### :hammer_and_wrench: 🚀 Linguagens e Ferramentas :
 <div id="header" align="left">
     <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/>
   </a>
