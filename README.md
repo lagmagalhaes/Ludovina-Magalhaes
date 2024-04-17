@@ -1,4 +1,6 @@
 #
+![image](https://github.com/lagmagalhaes/Ludovina-Magalhaes/assets/166879716/f96ddd3e-513c-44b9-878f-4c671e986b7c)
+
 
 ![image]([https://github.com/lagmagalhaes/Ludovina-Magalhaes/assets/166879716/db13c285-b9d4-4d9c-abee-6d8443dbb50a](https://www.canva.com/design/DAGCs0LYero/po35fWFqcyuKWimgyZ8f3g/edit?utm_content=DAGCs0LYero&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
 
