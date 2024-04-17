@@ -1,12 +1,9 @@
-<h1>
-  Olá, sou a Ludovina.  
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-
-
 ![image](https://github.com/lagmagalhaes/Ludovina-Magalhaes/assets/166879716/f96ddd3e-513c-44b9-878f-4c671e986b7c)
  
-  
+ <h1> <div id="header" align="center">
+  Olá, sou a Ludovina.  
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1> 
 ---
  <div id="header" align="left">
 
