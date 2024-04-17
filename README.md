@@ -5,12 +5,9 @@
 </span>
 
 ![image](https://github.com/lagmagalhaes/Ludovina-Magalhaes/assets/166879716/a809f4eb-eda9-405f-b376-988c54e1d1e4)
-<p align="center">
-  <a href="https://www.instagram.com/error418.code/" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=/"/></a>
-  
+<p align="center"> 
   <a href="https://www.linkedin.com/in/kakacordovil/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https:///" /></a>
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https:/https://www.linkedin.com/in/ludovina-magalh%C3%A3es-a63465175///" /></a>
 </p> 
 
 
