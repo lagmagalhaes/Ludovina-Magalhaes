@@ -1,5 +1,5 @@
 #
-<div align="center">
+
 ![image](https://github.com/lagmagalhaes/Ludovina-Magalhaes/assets/166879716/db13c285-b9d4-4d9c-abee-6d8443dbb50a)
 
 
