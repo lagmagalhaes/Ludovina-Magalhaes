@@ -1,10 +1,5 @@
 ![image](https://github.com/lagmagalhaes/Ludovina-Magalhaes/assets/166879716/f96ddd3e-513c-44b9-878f-4c671e986b7c)
-
-<div id="badges" align="center">  
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/ludovina-magalh%C3%A3es-a63465175/)) 
  
-[![](https://img.shields.io/badge/Página_Web-yelow?style=for-the-badge&logo=medium&logoColor=white)]()
-  
    
    <h1>
   Olá, sou a Ludovina.  
