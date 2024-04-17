@@ -21,16 +21,7 @@
 
 ## BEM VINDO AO MEU GITHUB
 
-   
-* 🔭 Actualmente estoy trabajando en el departamento de compras de una empresa retail de alimentación pero necesito nuevos retos :muscle:  
-
-* 🌱 Estou a estudar :blue_book: e a praticar :computer: lenguagem SQL e Python, sem deixar de lado as ferramentas da Microsoft. 
-
-
-
-
-   
-
+  * 🌱 Estou a estudar :blue_book: e a praticar :computer: lenguagem SQL e Python, sem deixar de lado as ferramentas da Microsoft. 
 
 ---
    
