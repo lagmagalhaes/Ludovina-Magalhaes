@@ -1,4 +1,3 @@
-#
 ![image](https://github.com/lagmagalhaes/Ludovina-Magalhaes/assets/166879716/f96ddd3e-513c-44b9-878f-4c671e986b7c)
 
 <div id="badges" align="center">  
