@@ -15,7 +15,7 @@
 
 
 ### BEM VINDO AO MEU GITHUB
-  //
+  
   * 🌱 Estou a estudar :blue_book: e a praticar :computer: lenguagem SQL e Python, sem deixar de lado as ferramentas da Microsoft. 
    
  ###  🚀 Linguagens e Ferramentas :
