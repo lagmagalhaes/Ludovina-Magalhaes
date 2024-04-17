@@ -1,10 +1,8 @@
 #
-<div id="badges" align="center">
+
 ![image](https://github.com/lagmagalhaes/Ludovina-Magalhaes/assets/166879716/db13c285-b9d4-4d9c-abee-6d8443dbb50a)
 
-<div id="header" align="center">
-  <img src="https://github.com/noelianav91/noelianav91/blob/main/Banner%20Github.png" width="800"/>
-</div>
+
 
 <div id="badges" align="center">
   
