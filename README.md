@@ -1,9 +1,12 @@
+<span align="center">
+
+##  Olá, sou a Ludovina.! 👋 
+
+</span>
+
 ![image](https://github.com/lagmagalhaes/Ludovina-Magalhaes/assets/166879716/a809f4eb-eda9-405f-b376-988c54e1d1e4)
  
- <h1> <div id="header" align="left">
-  Olá, sou a Ludovina.  
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1> 
+
 
 ### BEM VINDO AO MEU GITHUB
   
